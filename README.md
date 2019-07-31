@@ -1,4 +1,4 @@
 java 1.8
 mysql 5.6
 tomacat 7.0.92
-nginx x.y.z
+nginx 1.2.3
